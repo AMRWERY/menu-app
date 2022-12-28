@@ -23,21 +23,6 @@
 </template>
 
 
-<!-- <script>
-export default {
-  data() {
-    return {
-      loggedIn: true
-    }
-  },
-
-  methods: {
-    isLoggedIn() {
-      return !!this.loggedIn;
-    }
-  }
-}
-</script> -->
 
 <style scoped>
 header {

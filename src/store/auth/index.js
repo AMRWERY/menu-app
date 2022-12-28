@@ -7,10 +7,11 @@ export default {
         return {
             token: null,
             userId: null,
-            tokenExpiration: null
+            tokenExpiration: null,
+            userLoginIn: false
         }
     },
-
+    
     actions,
     getters,
     mutations
